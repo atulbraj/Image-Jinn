@@ -1,6 +1,6 @@
 # Image-Jinn
 
-Image-Jinn is a cutting-edge AI image processing SaaS platform. It integrates advanced image processing features, a secure payment system, and a robust image search functionality. Whether you're looking to restore, recolor, remove objects, generatively fill, or remove backgrounds, Image-Jinn has got you covered.
+Image-Jinn is a cutting-edge AI image processing platform. It integrates advanced image processing features, a secure payment system, and a robust image search functionality. Whether you're looking to restore, recolor, remove objects, generatively fill, or remove backgrounds, Image-Jinn has got you covered.
 
 ## 🔧 Tech Stack
 - **Next.js**
